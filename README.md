@@ -1,2 +1,2 @@
-# Django-React
-Python Django React Web
+파이썬 Django React를 이용한 웹 개발
+=======================================
